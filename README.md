@@ -128,4 +128,12 @@ Facebook Ads
 
 **Tools:** Microsoft Excel (PivotTables, calculated fields, charts, `SUMIFS`, `LINEST`).
 
-**Author:** [Your name] - [LinkedIn or email]
+# 👩‍💻 Author
+Siti Sarah Binti Mohd Affandi
+
+MSc Operational Research and Analytics
+
+Aspiring Data Analyst
+
+# GitHub:
+[https://github.com/saraaffandi-design](https://github.com/saraaffandi-design)
