@@ -127,7 +127,6 @@ Insights & Recommendation
 ├── dashboard/
 │   ├── ad-campaign-dashboard.xlsx          # Excel dashboard (pivot tables and charts)
 │   └── ad-campaign-dashboard.pdf           # PDF export
-├── analysis/Ad-analysis-additions.xlsx     # KPI tables, Facebook breakdowns, clicks regression
 └── images/                                 # dashboard screenshots
 ```
 
