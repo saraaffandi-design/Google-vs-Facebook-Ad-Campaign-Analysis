@@ -91,16 +91,6 @@ Facebook Ads
 - Scale Facebook budgets in steps and pause increases if costs pass an agreed limit.
 - Run controlled creative and audience tests over the same period with equal budgets.
 
-### Clicks model
-
-A daily regression of clicks on spend and impressions (`LINEST` in Excel, see `analysis/Ad-analysis-additions.xlsx`):
-
-| | Both inputs (R²) | Impressions only | Spend only |
-|---|---|---|---|
-| Google Ads | 0.98 | 0.978 | 0.86 |
-| Facebook Ads | 0.90 | 0.895 | 0.87 |
-
-Impressions explain nearly all of the variation in clicks. This is a descriptive model on autocorrelated daily data, not a validated forecast. Conversions are not in the dataset, so clicks is the target.
 
 ---
 
