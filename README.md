@@ -61,6 +61,11 @@ Facebook Ads
 <img width="777" height="1002" alt="image" src="https://github.com/user-attachments/assets/619468b9-cd35-4cef-8e80-b431a255dcae" />
 
 
+Insights & Recommendation 
+
+<<img width="775" height="1001" alt="image" src="https://github.com/user-attachments/assets/5cc1ef1d-883d-4040-8db0-c1bd3c8dd69b" />
+ 
+
 
 
 <!-- Add screenshots of each dashboard page to the images/ folder. -->
